@@ -1,0 +1,4 @@
+portfolio,annualized_return,annualized_volatility,sharpe_ratio,risk_free_weight,tangency_weight,expected_return,expected_volatility
+Tangency Portfolio,0.043113158029552734,0.009630456283654675,2.649215912319235,,,,
+Risk-Free + Tangency: Current Return,,,,0.4712418567253055,0.5287581432746945,0.03109029006878017,0.00509218218343336
+Risk-Free + Tangency: 8% Floor,,,,-1.445796789551494,2.445796789551494,0.08,0.023554139060478617
