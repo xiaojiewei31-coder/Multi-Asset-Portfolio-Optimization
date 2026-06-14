@@ -33,9 +33,6 @@ The backtest compares three strategies:
 ```text
 .
 ├── data/raw/market_data.xlsx
-├── reports/
-│   ├── investment_report.pdf
-│   └── project_instruction.pdf
 ├── src/portfolio_optimization/
 │   ├── config.py
 │   ├── data.py
